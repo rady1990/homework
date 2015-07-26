@@ -1,0 +1,6 @@
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+C:\Users\djiaidka\Downloads\homework\homework\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\djiaidka\Downloads\homework\homework\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\djiaidka\Downloads\homework\homework\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb

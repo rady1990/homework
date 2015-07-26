@@ -1,0 +1,4 @@
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication4\obj\Debug\fail.csprojResolveAssemblyReference.cache
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication15\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config

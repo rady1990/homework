@@ -1,3 +1,6 @@
 C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication14\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication14\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication14\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\djiaidka\Downloads\homework\homework\3.1 conditions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\djiaidka\Downloads\homework\homework\3.1 conditions\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\djiaidka\Downloads\homework\homework\3.1 conditions\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

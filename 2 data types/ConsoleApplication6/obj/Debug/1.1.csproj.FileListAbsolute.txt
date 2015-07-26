@@ -3,3 +3,6 @@ C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication13\Con
 C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication13\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
 C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication13\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
 C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication13\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+C:\Users\djiaidka\Downloads\homework\homework\2 data types\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\djiaidka\Downloads\homework\homework\2 data types\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\djiaidka\Downloads\homework\homework\2 data types\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

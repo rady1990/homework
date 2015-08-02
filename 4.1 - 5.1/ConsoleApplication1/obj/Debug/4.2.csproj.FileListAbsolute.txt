@@ -1,0 +1,3 @@
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication22\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication22\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication22\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

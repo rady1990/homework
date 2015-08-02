@@ -1,0 +1,2 @@
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication22\ConsoleApplication6\obj\Debug\4.7.csprojResolveAssemblyReference.cache
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\ConsoleApplication22\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Megg\Downloads\my clone\my C#\homework\Strings\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Megg\Downloads\my clone\my C#\homework\Strings\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Megg\Downloads\my clone\my C#\homework\Strings\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Megg\Downloads\my clone\my C#\homework\Strings\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Megg\Downloads\my clone\my C#\homework\Strings\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Megg\Downloads\my clone\my C#\homework\Strings\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache

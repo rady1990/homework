@@ -1,0 +1,6 @@
+C:\Users\Megg\Downloads\my clone\my C#\homework\Classes-Objects-OOP\1\2\bin\Debug\2.exe.config
+C:\Users\Megg\Downloads\my clone\my C#\homework\Classes-Objects-OOP\1\2\bin\Debug\2.exe
+C:\Users\Megg\Downloads\my clone\my C#\homework\Classes-Objects-OOP\1\2\bin\Debug\2.pdb
+C:\Users\Megg\Downloads\my clone\my C#\homework\Classes-Objects-OOP\1\2\obj\Debug\2.csprojResolveAssemblyReference.cache
+C:\Users\Megg\Downloads\my clone\my C#\homework\Classes-Objects-OOP\1\2\obj\Debug\2.exe
+C:\Users\Megg\Downloads\my clone\my C#\homework\Classes-Objects-OOP\1\2\obj\Debug\2.pdb

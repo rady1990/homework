@@ -1,0 +1,5 @@
+C:\Users\Megg\Downloads\my clone\my C#\homework\Classes-Objects-OOP\1\4\bin\Debug\4.exe.config
+C:\Users\Megg\Downloads\my clone\my C#\homework\Classes-Objects-OOP\1\4\bin\Debug\4.exe
+C:\Users\Megg\Downloads\my clone\my C#\homework\Classes-Objects-OOP\1\4\bin\Debug\4.pdb
+C:\Users\Megg\Downloads\my clone\my C#\homework\Classes-Objects-OOP\1\4\obj\Debug\4.exe
+C:\Users\Megg\Downloads\my clone\my C#\homework\Classes-Objects-OOP\1\4\obj\Debug\4.pdb

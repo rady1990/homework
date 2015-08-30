@@ -1,0 +1,7 @@
+c:\users\djiaidka\documents\visual studio 2013\Projects\Data structures 1.1\Data structures 1.2\bin\Debug\Data structures 1.2.exe.config
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\Data structures 1.1-1.4\Data structures 1.2\bin\Debug\Data structures 1.2.exe.config
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\Data structures 1.1-1.4\Data structures 1.2\bin\Debug\Data structures 1.2.exe
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\Data structures 1.1-1.4\Data structures 1.2\bin\Debug\Data structures 1.2.pdb
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\Data structures 1.1-1.4\Data structures 1.2\obj\Debug\Data structures 1.2.csprojResolveAssemblyReference.cache
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\Data structures 1.1-1.4\Data structures 1.2\obj\Debug\Data structures 1.2.exe
+C:\Users\djiaidka\Documents\Visual Studio 2013\Projects\Data structures 1.1-1.4\Data structures 1.2\obj\Debug\Data structures 1.2.pdb

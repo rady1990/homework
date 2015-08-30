@@ -1,0 +1,5 @@
+C:\Users\Megg\Downloads\my clone\my C#\homework\Strings\ConsoleApplication1\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Megg\Downloads\my clone\my C#\homework\Strings\ConsoleApplication1\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Megg\Downloads\my clone\my C#\homework\Strings\ConsoleApplication1\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Megg\Downloads\my clone\my C#\homework\Strings\ConsoleApplication1\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Megg\Downloads\my clone\my C#\homework\Strings\ConsoleApplication1\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

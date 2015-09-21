@@ -1,0 +1,9 @@
+C:\Users\Megg\Downloads\my clone\my C#\homework\Data structures 1.1-1.4\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Megg\Downloads\my clone\my C#\homework\Data structures 1.1-1.4\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Megg\Downloads\my clone\my C#\homework\Data structures 1.1-1.4\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Megg\Downloads\my clone\my C#\homework\Data structures 1.1-1.4\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Megg\Downloads\my clone\my C#\homework\Data structures 1.1-1.4\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Megg\Downloads\my clone\my C#\homework\Data structures 1.1-1.4\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\djiaidka\Desktop\zada4i\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\djiaidka\Desktop\zada4i\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\djiaidka\Desktop\zada4i\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

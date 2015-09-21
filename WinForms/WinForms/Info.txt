@@ -1,0 +1,10 @@
+User details: 
+First Name: Alex
+Last Name: Chipev
+email: course1@abv.bg
+
+User details: 
+First Name: Georgi
+Last Name: Ivanov
+email: course2@abv.bg
+

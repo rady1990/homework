@@ -1,0 +1,8 @@
+C:\Users\Megg\Downloads\my clone\my C#\homework\Data structures 1.1-1.4\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Megg\Downloads\my clone\my C#\homework\Data structures 1.1-1.4\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Megg\Downloads\my clone\my C#\homework\Data structures 1.1-1.4\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Megg\Downloads\my clone\my C#\homework\Data structures 1.1-1.4\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Megg\Downloads\my clone\my C#\homework\Data structures 1.1-1.4\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\djiaidka\Desktop\zada4i\ConsoleApplication1\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\djiaidka\Desktop\zada4i\ConsoleApplication1\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\djiaidka\Desktop\zada4i\ConsoleApplication1\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

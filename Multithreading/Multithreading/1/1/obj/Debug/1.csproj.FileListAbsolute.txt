@@ -1,0 +1,2 @@
+C:\Users\Megg\Downloads\my clone\my C#\homework\Multithreading\1\1\bin\Debug\1.exe.config
+C:\Users\djiaidka\Desktop\zada4i\Multithreading\Multithreading\1\1\bin\Debug\1.exe.config

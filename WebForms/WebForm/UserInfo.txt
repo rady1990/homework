@@ -1,0 +1,14 @@
+User Details:
+User name: AlexChipev
+Password: tree
+Repeat Password: tree
+Age: 32
+Email: course1@abv.bg
+
+User Details:
+User name: Donatello
+Password: sword
+Repeat Password: sword
+Age: 28
+Email: course2@abv.bg
+

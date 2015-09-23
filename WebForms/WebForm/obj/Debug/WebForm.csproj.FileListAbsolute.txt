@@ -1,0 +1,6 @@
+C:\Users\Megg\Downloads\programirane\meg\C-Homeworks\Homeworks_8\WebForms\WebForm\bin\WebForm.dll.config
+C:\Users\Megg\Downloads\programirane\meg\C-Homeworks\Homeworks_8\WebForms\WebForm\bin\WebForm.dll
+C:\Users\Megg\Downloads\programirane\meg\C-Homeworks\Homeworks_8\WebForms\WebForm\bin\WebForm.pdb
+C:\Users\Megg\Downloads\programirane\meg\C-Homeworks\Homeworks_8\WebForms\WebForm\obj\Debug\WebForm.csprojResolveAssemblyReference.cache
+C:\Users\Megg\Downloads\programirane\meg\C-Homeworks\Homeworks_8\WebForms\WebForm\obj\Debug\WebForm.dll
+C:\Users\Megg\Downloads\programirane\meg\C-Homeworks\Homeworks_8\WebForms\WebForm\obj\Debug\WebForm.pdb
